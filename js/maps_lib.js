@@ -21,7 +21,7 @@ var MapsLib = {
 
   //the encrypted Table ID of your Fusion Table (found under File => About)
   //NOTE: numeric IDs will be deprecated soon
-  fusionTableId:      "1ga2XDlXm5uoH5Dx_jKWrMn-BgBGYsSnSRqDWBYou", // Point layer
+  fusionTableId:      "12FiNUUZhibzJOh4cdcQAMAacwBVMj8uFpaKs0E9S", // Point layer
   
   polygon1TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Median Household Income in CT Towns, ACS est 2008-12
   polygon2TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Unemployment in CT towns, ACS est 2008-12

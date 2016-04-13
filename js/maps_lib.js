@@ -23,8 +23,8 @@ var MapsLib = {
   //NOTE: numeric IDs will be deprecated soon
   fusionTableId:      "1ga2XDlXm5uoH5Dx_jKWrMn-BgBGYsSnSRqDWBYou", // Point layer
   
-  polygon1TableID:    "1J4icqZYUUWrjbd5QrlJWBv9Ax5LeV745AnWhNTl3", //Median Household Income in CT Towns, ACS est 2008-12
-  polygon2TableID:    "1Q2x_e-In4-648ggO0KUfCzVHRlyfAAg43ZS8Y8r_", //Unemployment in CT towns, ACS est 2008-12
+  polygon1TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Median Household Income in CT Towns, ACS est 2008-12
+  polygon2TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Unemployment in CT towns, ACS est 2008-12
 
   //*New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
   //*Important* this key is for demonstration purposes. please register your own.

@@ -23,8 +23,13 @@ var MapsLib = {
   //NOTE: numeric IDs will be deprecated soon
   fusionTableId:      "12FiNUUZhibzJOh4cdcQAMAacwBVMj8uFpaKs0E9S", // Point layer
   
-  polygon1TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Median Household Income in CT Towns, ACS est 2008-12
-  polygon2TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Unemployment in CT towns, ACS est 2008-12
+  polygon1TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Daisies 
+  polygon2TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Brownies 
+  polygon3TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY"  //Juniors
+  polygon4TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY"  //Cadettes
+  polygon5TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY"  //Seniors
+  polygon6TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY"  //Ambassadors
+  polygon7TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY"  //Total Girl Scouts
 
   //*New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
   //*Important* this key is for demonstration purposes. please register your own.

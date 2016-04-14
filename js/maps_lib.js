@@ -21,7 +21,7 @@ var MapsLib = {
 
   //the encrypted Table ID of your Fusion Table (found under File => About)
   //NOTE: numeric IDs will be deprecated soon
-  fusionTableId:      "12FiNUUZhibzJOh4cdcQAMAacwBVMj8uFpaKs0E9S", // Point layer
+  fusionTableId:      "1ppokJKfdtJ47IcHXSWh1f81JdGUS0J8l4UZoz9A9", // Point layer
   
   polygon1TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Daisies 
   polygon2TableID:    "1jnsZImZGlgn23X0Duv1VmUl1M5uE1KoouEDKa2YY", //Brownies 
